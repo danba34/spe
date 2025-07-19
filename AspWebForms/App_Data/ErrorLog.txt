@@ -1,0 +1,1 @@
+[14/07/2025 9:48:18 p. m.] 500 Error: https://localhost:44391/Error500 - User: Anonymous - IP: ::1 - Details: No additional details available - ErrorID: 091EA96D
